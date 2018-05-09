@@ -1,0 +1,16 @@
+---
+path: buy the right house
+date: '2018-05-09'
+title: How to Buy the Right House
+---
+We discussed \[last week] how we bought the wrong house, and today we’re here to give you some practical tips on how to not make our same mistake.  Inevitably, you still might, but we hope some of our insights can help you.
+
+
+
+1. Gauge your patience.  Can you wait 2-3 years for your house to become your dream home?  Don’t let all those home improvement shows fool you. It takes LOTS of time. money, and patience.  Unfortunately, we are impatient people.  After 9 months we couldn’t stand the thought of living through another year with no insulation, one bathroom, an old kitchen (with no dishwasher or microwave), and no central climate control.  Be honest with yourself, are you patient enough to live with your new home until you can renovate?
+2. Will you actually use the amenities you are choosing to live near?  We chose the ocean.  Did we ever go to the ocean or take advantage of living so close? No. What we did miss was having parks within walking distance, sidewalks, and walkability to groceries/restaurants/coffee. Think about the lesser known amenities you use on a daily basis, would you miss them?
+3. Are you a homebody or a busy bee who is never home?  We are homebodies.  We love to be at home in our pajamas.  Because of this it’s important to us that our house be extremely comfortable.  That includes climate control.  We want our house to be the temperature WE choose, not dictated by mother nature.  This also means we’re home all the time.  Three people who are home often, with only one small bathroom, soon find they need a second toilet.  This can also apply to your kitchen, if you often cook at home.  Does someone work from home and need a dedicated office?
+4. What is the ongoing cost of maintaining the home?  Is the house older? Will things need to be replaced sooner rather than later?  Take the yard into consideration.  Fencing, landscaping, maintaining older trees.  That all costs a lot of money and takes up a lot of your weekend time.  With age also comes building codes from another era.  Electrical, plumbing, and insulation all need to be updated and replaced eventually.  We’re not just talking about costs for adding new things, but maintaining older things as well.  Big trees can cause root problems.  Older electrical will require being updated and replaced to add new appliances. 
+5. Don’t rush yourself.  We know, we know, this is a sellers market.  As buyers who put in 7 offers before we had one accepted, we get it.  However I look back and ask myself if any of the other houses were right for us. Don’t overpay for something you know you can’t or shouldn’t afford.  Don’t go higher than you’re willing, especially if it feels forced.  If you lose a house, another WILL come along.   
+
+Of course there’s all the runner-ups everyone knows well: budget, location, schools, proximity to work, etc.  Hopefully ours provided a little insight for those who haven’t been through the home buying process already.  There’s so many factors to consider when buying a home.  We recommend the book "How to Buy a House in California”, especially the ideal house profile worksheet.  Happy house hunting!
