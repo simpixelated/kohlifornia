@@ -3,6 +3,8 @@ path: how to be a one car family
 date: '2018-05-09'
 title: 3 Tips for how to be a one car family
 ---
+![](/static/assets/how_to_be_one_car_family.png)
+
 This might sound crazy to most of you, but we are a one car family.  In fact we’ve lived this way on and off for about 5 years now.  It started when J first took a job working from home.  He didn’t need a car to get to work anymore, and I am a stay at home mom.  It started out going very smoothly, but it isn’t without it’s bumps in the road.  Along the way we have learned how to make it work, even with J now working outside of the home and our daughter being in full-time school.  Here’s 3 tips for making life work as a one car family.
 
 1. Being patient and flexible.  This is number one thing required to make a one car family life run smoothly.  As the one who does most of the driving, I have to be willing to drive J when he needs a ride.  This includes times when I might have other plans, or need to do something else.  I’ve learned to stop, take a deep breathe, and remember we’re a team.  Sometimes last minute things come up and the car is needed.  I have to just roll with the punches.  So be patient with the situation, and learn to work errands into your car trips.
