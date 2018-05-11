@@ -3,6 +3,8 @@ path: how to avoid added sugar
 date: '2018-05-11'
 title: How to Avoid Added Sugar
 ---
+![](/static/assets/how-to-avoid-added-sugars.png)
+
 If you're like most Americans, you probably consume too much sugar.  How much is too much, you ask?  [T](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#other-components)[he Dietary Guidelines for Americans 2015-2020 ](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#other-components)recommends no more than 10% of your daily calories come from added sugars.  This comes out to about 50 grams of added sugars (200 calories). Now don't confused this with the naturally occurring sugars in fruits, vegetables, carbohydrates, and dairy.  We're talking about sugar that is _added _to the food you are consuming.
 
 Now if you're like me you're probably quick so ask why these added sugars are so bad?  Sure they are extra calories, but what if I'm eating the right about of calories WITH all these added sugars?  Well science thinks you're doing [unnecessary harm to your body](https://www.forbes.com/sites/quora/2016/11/08/new-studies-show-sugars-impact-on-the-brain-and-the-news-is-not-good/#552d4bdd652d).  Sugar has been shown to cause you to overeat by dulling your overeating sensor, as well as aging your skin.  It also reduces our BDNF factor, which slows our ability to form and learn new memories.   And to top if all off the stuff is [_very addicting._](https://www.theguardian.com/society/2017/aug/25/is-sugar-really-as-addictive-as-cocaine-scientists-row-over-effect-on-body-and-brain)
