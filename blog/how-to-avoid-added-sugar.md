@@ -3,7 +3,7 @@ path: how to avoid added sugar
 date: '2018-05-11'
 title: How to Avoid Added Sugar
 ---
-![null](/static/assets/how-to-avoid-added-sugars.png)
+![How to Avoid Added Sugar](/static/assets/how-to-avoid-added-sugars.png)
 
 If you're like most Americans, you probably consume too much sugar.  How much is too much, you ask?  [T](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#other-components)[he Dietary Guidelines for Americans 2015-2020 ](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#other-components)recommends no more than 10% of your daily calories come from added sugars.  This comes out to about 50 grams of added sugars (200 calories). Now don't confused this with the naturally occurring sugars in fruits, vegetables, carbohydrates, and dairy.  We're talking about sugar that is _added _to the food you are consuming.
 
