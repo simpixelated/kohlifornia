@@ -17,18 +17,20 @@ So there's sugar in everything, it's negatively effecting your health, and you w
 
 Avoiding added sugar is actually easier than you might think.  The hardest part will be parting with some of your favorite foods, and purging things from your cabinet.  
 
-*Read every single label.*  Take 30 seconds to turn the item around and look at the ingredient list and then the dietary label.  It might say 0g of sugar per serving, but you might find sugar in that long (or short) list of ingredients. Depending how much of that item you eat, will depend if the sugar is being eating in excess.  For example some mayonnaise has added sugar, but you only use 1 serving every few days.  That's a judgement call, but now you know that every sandwich you eat has added sugar from mayonnaise.
+__Read every single label.__  Take 30 seconds to turn the item around and look at the ingredient list and then the dietary label.  It might say 0g of sugar per serving, but you might find sugar in that long (or short) list of ingredients. Depending how much of that item you eat, will depend if the sugar is being eating in excess.  For example some mayonnaise has added sugar, but you only use 1 serving every few days.  That's a judgement call, but now you know that every sandwich you eat has added sugar from mayonnaise.
 
-*Eat more fresh fruit.*  It won't be easy, you'll have withdrawals. But fruit is one of the best ways to satisfy a sweet tooth.  It's pretty impossible to eat too much naturally occurring fruit (i'm sure it's been done though).  You'll find that as you eat less added sugar fruit will taste much sweeter.  Try to avoid eating dried fruits.  When fruit is dried you remove all the fiber and water which causes you to eat way more sugar per serving.
+__Eat more fresh fruit.__  It won't be easy, you'll have withdrawals. But fruit is one of the best ways to satisfy a sweet tooth.  It's pretty impossible to eat too much naturally occurring fruit (i'm sure it's been done though).  You'll find that as you eat less added sugar fruit will taste much sweeter.  Try to avoid eating dried fruits.  When fruit is dried you remove all the fiber and water which causes you to eat way more sugar per serving.
 
-*Learn the common offenders.*  Over time you'll just know what foods have TONS of added sugar. Ketchup is one of the worst.  One tablespoon of ketchup contains one teaspoon of sugar.  Just go pull out a tablespoon and a teaspoon for the visual, it's insane.  Cereals, granola bars, flavored yogurts, canned soup, bread, peanut butter, and jam are just a few.  (Side note: if anyone has a great jam that isn't loaded with sugar, let me know!)
+__Learn the common offenders.__  Over time you'll just know what foods have TONS of added sugar. Ketchup is one of the worst.  One tablespoon of ketchup contains one teaspoon of sugar.  Just go pull out a tablespoon and a teaspoon for the visual, it's insane.  Cereals, granola bars, flavored yogurts, canned soup, bread, peanut butter, and jam are just a few.  (Side note: if anyone has a great jam that isn't loaded with sugar, let me know!)
 
-*Have a treat.* Don't expect yourself to be perfect; you won't be.  For me it's some delicious dark chocolate in our pantry.  My go-to for when I'm craving something sweet.
+__Have a treat.__ Don't expect yourself to be perfect; you won't be.  For me it's some delicious dark chocolate in our pantry.  My go-to for when I'm craving something sweet.
 
-*Be flexible.* We all go out to eat, eat with friends, go to parties. You won't know the ingredient list for everything.  Don't beat yourself up about it, enjoy the meal.  Knowing that you avoid added sugar the other 99% of the time is where the real health benefits come from.
+__Be flexible.__ We all go out to eat, eat with friends, go to parties. You won't know the ingredient list for everything.  Don't beat yourself up about it, enjoy the meal.  Knowing that you avoid added sugar the other 99% of the time is where the real health benefits come from.
 
 I also want to point out that maple syrup, honey, agave, molasses, raw sugar, coconut sugar, and all other "sweeteners" are added sugar. Although they often come from a natural source, they are still sugar.  For me personally I had a tough time at first not putting maple syrup in my yogurt and oatmeal.  However I find that using fresh fruit can be a great substitute.  Especially if you cut it up small enough that each bite contains a little sweetness.
 
 Hopefully these tips will help you avoid added sugars, especially the very sneaky ones.
+
+___
 
 _What are some food items you were shocked contained so much sugar?_
