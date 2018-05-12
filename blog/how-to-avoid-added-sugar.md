@@ -3,7 +3,7 @@ path: how to avoid added sugar
 date: '2018-05-11'
 title: How to Avoid Added Sugar
 ---
-![](/static/assets/how-to-avoid-added-sugars.png)
+![null](/static/assets/how-to-avoid-added-sugars.png)
 
 If you're like most Americans, you probably consume too much sugar.  How much is too much, you ask?  [T](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#other-components)[he Dietary Guidelines for Americans 2015-2020 ](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#other-components)recommends no more than 10% of your daily calories come from added sugars.  This comes out to about 50 grams of added sugars (200 calories). Now don't confused this with the naturally occurring sugars in fruits, vegetables, carbohydrates, and dairy.  We're talking about sugar that is _added _to the food you are consuming.
 
@@ -26,5 +26,9 @@ Avoiding added sugar is actually easier than you might think.  The hardest part 
 **Have a treat. **Don't expect yourself to be perfect; you won't be.  For me it's some delicious dark chocolate in our pantry.  My go-to for when I'm craving something sweet.
 
 **Be flexible. **We all go out to eat, eat with friends, go to parties. You won't know the ingredient list for everything.  Don't beat yourself up about it, enjoy the meal.  Knowing that you avoid added sugar the other 99% of the time is where the real health benefits come from.
+
+I also want to point out that maple syrup, honey, agave, molasses, raw sugar, coconut sugar, and all other "sweeteners" are added sugar. Although they often come from a natural source, they are still sugar.  For me personally I had a tough time at first not putting maple syrup in my yogurt and oatmeal.  However I find that using fresh fruit can be a great substitute.  Especially if you cut it up small enough that each bite contains a little sweetness.
+
+Hopefully these tips will help you avoid added sugars, especially the very sneaky ones.
 
 _What are some food items you were shocked contained so much sugar?_
