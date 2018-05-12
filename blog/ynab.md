@@ -10,3 +10,7 @@ I recommend this software to you not as a boring task to groan about, but a way 
 One of my favorite features is setting up budget categories for rainy day funds.  Basically I can save up all the money needed to pay every single bill.  I calculate how much I need when that bill comes due, divide it out into a monthly amount and save that up every single month.  Then when it comes due - BOOM - I already have the money sitting there waiting.  This includes everything from insurance payments, property taxes, clothing, electronics, vacations, gifts, memberships, charitable donations, and on and on.
 
 I can’t even begin to tell you just how life changing it is to have those rainy day funds.  No more worrying, or overspending on our credit cards. Not only does YNAB makes you earn the money before you spend it, but it helps you be prepared for almost every financial situation life throws your way.
+
+_Here's a handy infographic for all those rainy day funds you should be saving towards every month.  What other rainy day funds do you budget for every month?_
+
+![](/static/assets/rainydaysavings.png)
