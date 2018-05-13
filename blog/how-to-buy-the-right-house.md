@@ -3,6 +3,8 @@ path: buy the right house
 date: '2018-05-09'
 title: How to Buy the Right House
 ---
+![](/assets/howtobuytherighthouse.png)
+
 Coastal or bust! That was our motto for finding our first home to buy.  Or townhome, or condo.  We really weren’t being selective.  Then we stepped into a little beach bungalow less than a mile to the ocean, and we were sold. Sure it was old, 1950s old, but that was part of the charm. The very best part was the proximity to the ocean.  We wanted that coastal climate, bikeabilty to the beach, beach town vibe.  Well we got it, and we hated it.
 
 The hardest part for us was admitting defeat.  Swallowing our pride enough to say we were unhappy and made the wrong decision.  As homebodies we view our home as our sanctuary,  We want to be comfortable, and the charm of the older house wasn’t enough to overlook how uncomfortable we were.  We could have either spent $100k on renovations to modernize the house to our standards, or cut our losses and get into a place that had all the things we wanted for the same price.  Yes we are losing our coastal climate, and our big backyard.  But you know what? We are okay with that.  I think we had to make the wrong decision first in order to find out what we really wanted.
@@ -18,8 +20,6 @@ Now we're living in a gorgeous townhouse, and we learned a lot about how to buy 
 5. **Don’t rush yourself.**  We know, we know, this is a sellers market.  As buyers who put in 7 offers before we had one accepted, we get it.  However I look back and ask myself if any of the other houses were right for us. Don’t overpay for something you know you can’t or shouldn’t afford.  Don’t go higher than you’re willing, especially if it feels forced.  If you lose a house, another WILL come along.   
 
 Of course there’s all the runners-up: budget, location, schools, proximity to work, etc.  Hopefully our mistake has provided you a little help with buying the right house.  There’s so many factors to consider when buying a home.  We recommend the book <a target="_blank" href="https://www.amazon.com/gp/product/1413323332/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1413323332&linkCode=as2&tag=simpixelated-20&linkId=c6ef421f2ee1e397fc1ebf3ed701f52a">How to Buy a House in California</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=simpixelated-20&l=am2&o=1&a=1413323332" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, especially the ideal house profile worksheet.
-
-
 
 - - -
 
