@@ -17,8 +17,10 @@ This doesn't have to literally be a basket, it just needs to be a place where yo
 
 This is probably something you already do, but have a place or way to display that amazing artwork, or hard earned grade.  I've changed mine over the years, but we currently have a fridge with a side dedicated to schoolwork.  I've also hung up work on clothespin wires, and displayed in frames.  I found the former to be the best for swapping quickly.
 
+![](/assets/howtodeclutterschoolwork.png)
+
 The most important thing to remember is that this artwork might mean a lot to your kid (and you), but it's just a tiny snapshot in their everyday life.  In a year will they remember doing that spelling worksheet?  Definitely not.  The benefit of taking all those photos is that you _can_ go back and revisit them if you need to.  However they're not taking up unwanted space in your house.  Cluttering both your closet, and your mind.
 
-___
+- - -
 
 _How do you display your child's artwork/schoolwork?_
