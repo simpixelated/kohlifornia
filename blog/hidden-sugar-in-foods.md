@@ -3,6 +3,8 @@ path: hidden sugar in foods
 date: '2018-05-15'
 title: Hidden Sugar in Foods
 ---
+![](/assets/hidden-sugars-in-everyday-foods-1-.png)
+
 In my last [blog post](https://kohlifornia.com/how-to-avoid-added-sugar/) about added sugar I mentioned a few of the sneaky foods that contain hidden sugar.  Of course there are the foods with naturally occurring sugars: grains, dairy, fruits, vegetables, and nuts.  These are not _added_ sugars, and it's actually hard to consume too many of them.  What I'm talking about here are the foods where the manufacturers add sugar to make them taste better, and keep you coming back for more.
 
 # Condiments
