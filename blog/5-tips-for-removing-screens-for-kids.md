@@ -18,3 +18,33 @@ Gone were the tantrums for hours after we stopped looking at screens.  Her moods
 Now I know what you're thinking, but we are definitely _not_ perfect.  She still watches TV at grandma's house and we usually let her watch a show or movie on the weekends.  However long gone is her tablet.  In fact we literally gave it away, and couldn't be happier.  She doesn't beg to look at my phone, or beg to watch videos on my computer. 
 
 Now I may have made this all sound like an easy process, but it's not.  It's _really_ not.  We still have weeks where she'll beg me after school to watch a show.  But I've held strong and we have a much happier child (and life) because of it.
+
+# 5 Tips for Removing Screen Time for Kids
+
+My pain is your gain, here are 5 important tips for making the transition away from screens for your kids.
+
+# Get Rid of Tablets (at least temporarily)
+
+I know, I know. You _love_ yours.  But this isn't forever.  You just need to give them the impression that the tablets are gone.  Whether this takes a week or 8, if you hold strong for long enough they will have created new habits that do not involve a tablet.  Yes this does mean good bye educational apps. But ask yourself, how educational were they?  Was it more for _your _benefit?  If you don't agree with this one (I understand), then at least think about severely limiting time on the tablet.  Think less than 30 minutes a day.
+
+# Have Screen Rules
+
+Whether this means no screens ever, or 10 minutes a day, have a set rule regarding screen time.  For us this is no screens during the week, and 2 tv shows or 1 movie on the weekend(Fri-Sun).  Grandma's house is fair game for TV, but she generally gets bored after 2-3 shows.  We don't do tablets, computers or phones at all.  I also strongly recommend writing them down for reference.
+
+# Model the Behavior
+
+This one is hardest for me.  I find myself on my phone or computer _a lot_.  However the most useful tip I ever received was to put your phone away.  In a drawer, on a shelf, upstairs, somewhere that it's our of your reach -- and mind.  Turn the volume off and leave it be.  As for computer time, obviously I blog.  I try to do it when my daughter is at school, but if she's home I've explained that it's work.  Work for _her_ can be coloring, math problems, reading a book, etc.  We've just classified "work" differently for parents and kids.
+
+This also applies to TV.  I can't say I am the best model in that sense, as we do watch a show after she goes to bed.  However I really try to limit myself, and find that after awhile I don't really "crave" TV time.
+
+# Go Outside
+
+Outside in nature, or outside of the home.  Get away from those screens! We packed our schedule with more library trips, park time, and playdates.  As the saying goes out of sight, out of mind.
+
+# Be Strong (and consistent)
+
+Have an iron will about it.  No amount of whining, crying, or screaming will break you down.  You got this!
+
+___
+
+*What tips do you have for managing screen time in your home?  Did you eliminate it entirely, or do you have rules?*
