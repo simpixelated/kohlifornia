@@ -3,6 +3,8 @@ path: getkidsoffofscreens
 date: '2018-05-16'
 title: 5 Tips for Removing Screens for Kids
 ---
+![](/assets/5tipsremovescreens.png)
+
 It's 2018, how can we NOT have screens everywhere?  Most parents have a cell phone, a tablet, a computer, a tv, a smartwatch, etc.  Sure they're _very_ important to most jobs, helpful in day-to-day life, and offer a plethora of tools for our everyday use.  But, the big question I have for you is, do your kids need to be using screens?  And I'm not talking about sparing use for homework from school, I mean excessive use of screen time.
 
 I won't lie to you and say that they aren't useful gadgets when you need to entertain your children.  For a year of my daughter's life we let her use a tablet and watch _way_ too much TV.  Of course I would go back and do that year differently, but I can't.  What I _can_ do is limit her screen time now.
@@ -45,6 +47,6 @@ Outside in nature, or outside of the home.  Get away from those screens! We pack
 
 Have an iron will about it.  No amount of whining, crying, or screaming will break you down.  You got this!
 
-___
+- - -
 
-*What tips do you have for managing screen time in your home?  Did you eliminate it entirely, or do you have rules?*
+_What tips do you have for managing screen time in your home?  Did you eliminate it entirely, or do you have rules?_
