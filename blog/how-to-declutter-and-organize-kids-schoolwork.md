@@ -3,7 +3,7 @@ path: howtodeclutteryourkids
 date: '2018-05-14'
 title: How to Declutter and Organize Kids Schoolwork
 ---
-If your house is like mine, you have a mountain of school papers that come home EVERY. SINGLE. DAY.  Now don't get me wrong, I love knowing what my daughter is doing at school.  I love seeing her artwork progress, her handwriting improve, her math problems get harder.  However, I hate clutter.  For as long as I can remember I don't do clutter.  I don't know if this is an innate personality trait of mine, or a part of my Montessori upbringing.  However, it's done wonders for the decluttering of my life.  And today I'm going to help you declutter and organize all that schoolwork.
+If your house is like mine, you have a mountain of school papers that come home EVERY. SINGLE. DAY.  Now don't get me wrong, I love knowing what my daughter is doing at school.  I love seeing her art skills progress, her handwriting improve, her math problems get harder.  However, I hate clutter.  For as long as I can remember I don't do clutter.  I don't know if this is an innate personality trait of mine, or a part of my Montessori upbringing.  However, it's done wonders for the decluttering of my life.  And today I'm going to help you declutter and organize all that schoolwork.
 
 # Sort What you Already Have
 
@@ -15,9 +15,9 @@ This doesn't have to literally be a basket, it just needs to be a place where yo
 
 # Display Right Away
 
-This is probably something you already do, but have a place or way to display that amazing artwork, or hard earned grade.  I've changed mine over the years, but we currently have a fridge with a side dedicated to schoolwork.  I've also hung up work on clothespin wires, and displayed in frames.  I found the former to be the best for swapping quickly.
+This is probably something you already do, but have a place or way to display that amazing artwork, or hard earned grade.  I've changed mine over the years, but we currently dedicate the side of our fridge to schoolwork.  I've also hung up work on clothespin wires, and displayed in frames.  I found the former to be the best for swapping quickly.
 
-![](/assets/howtodeclutterschoolwork.png)
+![null](/assets/howtodeclutterschoolwork.png)
 
 The most important thing to remember is that this artwork might mean a lot to your kid (and you), but it's just a tiny snapshot in their everyday life.  In a year will they remember doing that spelling worksheet?  Definitely not.  The benefit of taking all those photos is that you _can_ go back and revisit them if you need to.  However they're not taking up unwanted space in your house.  Cluttering both your closet, and your mind.
 
