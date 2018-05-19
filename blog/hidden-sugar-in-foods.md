@@ -3,7 +3,7 @@ path: hidden sugar in foods
 date: '2018-05-15'
 title: Hidden Sugar in Foods
 ---
-![](/assets/hidden-sugars-in-everyday-foods-1-.png)
+![null](/assets/hidden-sugars-in-everyday-foods-1-.png)
 
 In my last [blog post](https://kohlifornia.com/how-to-avoid-added-sugar/) about added sugar I mentioned a few of the sneaky foods that contain hidden sugar.  Of course there are the foods with naturally occurring sugars: grains, dairy, fruits, vegetables, and nuts.  These are not _added_ sugars, and it's actually hard to consume too many of them.  What I'm talking about here are the foods where the manufacturers add sugar to make them taste better, and keep you coming back for more.
 
@@ -23,7 +23,7 @@ In my last [blog post](https://kohlifornia.com/how-to-avoid-added-sugar/) about 
 
 * Sandwich bread, rolls, bagels, biscuits
 * Tortillas
-* Crackers, croutons, 
+* Crackers, croutons 
 
 # Soups and Sauces
 
@@ -45,7 +45,7 @@ In my last [blog post](https://kohlifornia.com/how-to-avoid-added-sugar/) about 
 
 * Juices, tea, iced coffee
 
-This may seem like an exhaustive list, but I'm sure there's a lot of food out there I've forgotten.  Your best bet is to check _every single_ food label.  Not just the sugars, but the ingredient list.
+This may seem like an exhaustive list, but I'm sure there's a lot of food out there I've forgotten.  Your best bet is to check _every single_ food label.  Not just the sugars in the nutrition info, but the ingredient list as well.
 
 - - -
 
