@@ -14,7 +14,7 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet title={siteTitle}>
-          <meta name="p: domain_verify" content="1925818182c9e0b62716c85a110ea2a5" />
+          <meta name="p:domain_verify" content="1925818182c9e0b62716c85a110ea2a5" />
         </Helmet>
         <Bio />
         {posts.map(({ node }) => {
