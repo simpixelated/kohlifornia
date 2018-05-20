@@ -15,6 +15,15 @@ class BlogIndex extends React.Component {
       <div>
         <Helmet title={siteTitle}>
           <meta name="p:domain_verify" content="1925818182c9e0b62716c85a110ea2a5" />
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119389354-1"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-119389354-1');
+          </script>
         </Helmet>
         <Bio />
         {posts.map(({ node }) => {
