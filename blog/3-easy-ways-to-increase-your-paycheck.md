@@ -3,6 +3,8 @@ path: increase your paycheck
 date: '2018-05-21'
 title: 3 Easy Ways to Increase Your Paycheck
 ---
+![](/assets/easywaystoincreasepaycheck.png)
+
 If you're like me, you love when there's a little extra money in a paycheck.  I'm quick to pull up the pay stub and evaluate what happened.  When the new tax laws for 2018 went into effect I saw a small increase in our take home pay, but it had me questioning how else I could increase our net pay.  And I mean increase without a pay raise.  Obviously a raise is the best way to get a paycheck increase. :)
 
 # Check your Withholdings (Federal and State)
