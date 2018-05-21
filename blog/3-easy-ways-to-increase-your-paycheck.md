@@ -3,7 +3,7 @@ path: increase your paycheck
 date: '2018-05-21'
 title: 3 Easy Ways to Increase Your Paycheck
 ---
-If you're like me, you love when there's a little extra money in a paycheck.  I'm quick to pull up the pay stub and evaluate what happened.  When the new tax laws for 2018 went into effect I saw a small increase in our take home pay, but it had me questioning how else I could increase our net pay.
+If you're like me, you love when there's a little extra money in a paycheck.  I'm quick to pull up the pay stub and evaluate what happened.  When the new tax laws for 2018 went into effect I saw a small increase in our take home pay, but it had me questioning how else I could increase our net pay.  And I mean increase without a pay raise.  Obviously a raise is the best way to get a paycheck increase. :)
 
 # Check your Withholdings (Federal and State)
 
@@ -26,3 +26,11 @@ When Jordan switched jobs we found the similar insurance to what we had before w
 Now we all have excellent dental health and are fairly healthy (minus those dang school illnesses).  But you need to be the judge of your own health.  Is your insurance plan too inclusive for you?  Could you save some of that extra premium money and use it for procedures?  Would a high deductible health plan be better for you?  How about an FSA or HSA?  All _great_ questions to explore.  Unfortunately I don't have a calculator or spreadsheet for this one.
 
 # 401K/IRA Contributions
+
+I hope you're lucky enough to have an employer sponsored retirement plan.  Seems to be hit or miss these days.  If you do, remember this is a pre-tax contribution which is _awesome_ because it brings down your taxable income for the year.  However, it does take money out of your immediate pocket on a monthly basis.  So definitely check on yourself and see if that money is being well invested or if you could better invest it yourself through a Roth IRA.  It might be better for you to get yourself out of debt right now, than to put it towards retirement.
+
+My basic point here is to do another check-up on your retirement contributions.  Make sure you're still making the best decision for yourself.  If you really need that extra cash right now, you can definitely make a change here.  But don't forget to save for retirement when you can!
+
+- - -
+
+_Make sure you're _[_saving for a rainy day_](https://kohlifornia.com/budgeting-for-a-rainy-day/)_. How have you increased your take home pay?_
