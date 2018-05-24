@@ -3,9 +3,9 @@ path: increase your paycheck
 date: '2018-05-21'
 title: 3 Easy Ways to Increase Your Paycheck
 ---
-![](/assets/easywaystoincreasepaycheck.png)
+![null](/assets/easywaystoincreasepaycheck.png)
 
-If you're like me, you love when there's a little extra money in a paycheck.  I'm quick to pull up the pay stub and evaluate what happened.  When the new tax laws for 2018 went into effect I saw a small increase in our take home pay, but it had me questioning how else I could increase our net pay.  And I mean increase without a pay raise.  Obviously a raise is the best way to get a paycheck increase. :)
+If you're like me, you love when there's a little extra money in a paycheck.  I'm quick to pull up the pay stub and evaluate what happened.  When the new tax laws for 2018 went into effect I saw a small increase in our take home pay, but it had me questioning how else I could increase our net pay.  **Here are three ways to increase your paycheck without getting a raise:**
 
 # Check your Withholdings (Federal and State)
 
@@ -13,7 +13,11 @@ For a few years I've kept my eye on paycheck withholdings from the federal and s
 
 If you're like me, the [w4 calculator](https://www.irs.gov/individuals/irs-withholding-calculator) provided by the IRS can seem confusing.  It asks a lot of questions, some for which I didn't even know the answer.  So I thought to myself, there has to be a better way to figure this out.  And there is! 
 
-Look at last year's tax return and see how much you owed in taxes vs. how much you paid in taxes.  Say you make $180,000 (as a married couple filing jointly) and you overpaid by $1000.  That's $83 a month.  Now I found this awesome [tool from Turbotax ](https://turbotax.intuit.com/tax-tips/tax-refund/fatten-your-paycheck-and-still-get-a-tax-refund/L5HaySdDP)(note this was last updated in 2017) that shows you how many extra withholdings that equates. In the above example the Turbotax Table says that is equal to one withholding.  Therefore if you are currently taking 3 withholdings (and you did last year), then you should go ahead and take 4 for the rest of the year.  In some instances if it's late enough in the year you could take 5, because you've already overpaid your taxes by quite a lot.
+Look at last year's tax return and see how much you owed in taxes vs. how much you paid in taxes.  Say you make $180,000 (as a married couple filing jointly) and you overpaid by $1000.  That's $83 a month.  Now I found this awesome chart from [Turbotax](https://turbotax.intuit.com/tax-tips/tax-refund/fatten-your-paycheck-and-still-get-a-tax-refund/L5HaySdDP) (note this was last updated in 2017) that shows you how many extra withholdings that equates. 
+
+![null](/assets/screen-shot-2018-05-24-at-1.35.17-pm.png)
+
+In the above example the Turbotax Table says that is equal to one withholding.  Therefore if you are currently taking 3 withholdings (and you did last year), then you should go ahead and take 4 for the rest of the year.  In some instances if it's late enough in the year you could take 5, because you've already overpaid your taxes by quite a lot.
 
 Say that seems daunting.  Here's another way.  Look at that same tax return and see what you owed for the year.  Divide that by the number of paychecks you get and see how that amount compares to what your last paycheck states.  Then go up or down depending on if you are having too much or too little withheld.
 
