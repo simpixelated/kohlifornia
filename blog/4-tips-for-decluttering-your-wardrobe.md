@@ -19,7 +19,7 @@ It's really not that hard, but you need to start with an open mind.  If you can'
 
 **Only keep what makes you happy.  **I mean truly happy. Do you love wearing that item?  Is it one of those awesome staples that you can trust to do the trick?  You should enjoy wearing all of your clothes, and if you don't like it -- toss it.  If you aren't sure, it's not making you happy.
 
-**Know your lifestyle.**  Do you work from home? In an office? At a gym?  What clothes do you really need?  I personally do not need fancy clothes.  I have a couple of nice dresses and a nice pair of shoes.  When I need to dress up, I'm ready.  However an entire closet of fancy clothes would be a waste of space.  You should have enough clothing for _your _lifestyle -- whatever that may be.  Don't hold on to things you'll never need to wear.
+**Know your lifestyle.**  Do you work from home? In an office? At a gym?  What clothes do you really need?  I personally do not need fancy clothes.  I have a couple of nice dresses and a nice pair of shoes.  When I need to dress up, I'm ready.  However an entire closet of fancy clothes would be a waste of space.  You should have enough clothing for _your lifestyle_ -- whatever that may be.  Don't hold on to things you'll never need to wear.
 
 **Purge as you go.**  If a shirt gets ruined, or a pair of shoes is too worn down, toss them.  Don't wait for some big spring clean-up.  If something needs to go, toss it.  I put all mine in a bag in the garage.  When the bag is full I take it to a thrift store.  You could also resell them at a clothing shop.  Whatever you like to do with old clothes.  But do not wait for a magical time, get rid of things when needed.
 
