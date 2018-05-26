@@ -3,9 +3,9 @@ path: best credit cards for earning rewards
 date: '2018-05-20'
 title: 4 Best Credit Cards for Earning Rewards
 ---
-![](/assets/bestcreditcardsearnrewards.png)
+![null](/assets/bestcreditcardsearnrewards.png)
 
-We have 4 credit cards, and use each one strategically to earn over $1000 cash back _every_ year.  We even earn up to 6% back on certain purchases. There's a ton of options out there for credit card rewards, but here are my favorites and how to maximize your cash back.
+We have 4 credit cards, and use each one strategically to earn over $1000 cash back _every_ year.  We even earn up to 6% back on certain purchases. There's a ton of options out there for credit card rewards, but here are my favorites that you can use to maximize your cash back.
 
 **Costco Anywhere Visa by Citi**\
 If you shop at Costco, then you already know about rewards certificate you get every year. But did you know that by having the Costco Citi credit card, you can earn even _more_ cash back?  You earn **4% **cash back at gas stations, **3% **cash back on restaurants and eligible travel, and an additional **2%** cash back (on top of the member rewards) on everything you buy from Costco.  All this cash back comes in a rewards certificate once a year, redeemable at Costco.
