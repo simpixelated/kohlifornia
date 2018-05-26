@@ -17,9 +17,9 @@ Look at last year's tax return and see how much you owed in taxes vs. how much y
 
 ![null](/assets/screen-shot-2018-05-24-at-1.35.17-pm.png)
 
-In the above example the Turbotax Table says that is equal to one withholding.  Therefore if you are currently taking 3 withholdings (and you did last year), then you should go ahead and take 4 for the rest of the year.  In some instances if it's late enough in the year you could take 5, because you've already overpaid your taxes by quite a lot.
+In the above example the Turbotax table says that is equal to one withholding.  Therefore if you are currently taking 3 withholdings (and you did last year), then you should go ahead and take 4 for the rest of the year.  In some instances if it's late enough in the year you could take 5, because you've already overpaid your taxes by quite a lot.
 
-Say that seems daunting.  Here's another way.  Look at that same tax return and see what you owed for the year.  Divide that by the number of paychecks you get and see how that amount compares to what your last paycheck states.  Then go up or down depending on if you are having too much or too little withheld.
+If that seems daunting, here's another way.  Look at that same tax return and see what you owed for the year.  Divide that by the number of paychecks you get and see how that amount compares to what your last paycheck states.  Then go up or down depending on if you are having too much or too little withheld.
 
 I recommend repeating this process every couple of months to double check yourself.  It's not foolproof, but it'll help bring in a little extra cash every month.
 
@@ -29,7 +29,7 @@ How often do you really use your health insurance?  How much are you paying out 
 
 When Jordan switched jobs we found the similar insurance to what we had before was going to cost us $300 more per _month_.  I thought to myself, there has to be a better way.  And that didn't include the $150 a month for dental.  A standard cleaning is $85 in our area. How does that equate for 3 people 2 times a year?
 
-Now we all have excellent dental health and are fairly healthy (minus those dang school illnesses).  But you need to be the judge of your own health.  Is your insurance plan too inclusive for you?  Could you save some of that extra premium money and use it for procedures?  Would a high deductible health plan be better for you?  How about an FSA or HSA?  All _great_ questions to explore.  Unfortunately I don't have a calculator or spreadsheet for this one.
+Now we all have excellent dental health and are fairly healthy overall (minus those dang school illnesses).  But you need to be the judge of your own health.  Is your insurance plan too inclusive for you?  Could you save some of that extra premium money and use it for procedures?  Would a high deductible health plan be better for you?  How about an FSA or HSA?  All _great_ questions to explore.  Unfortunately I don't have a calculator or spreadsheet for this one.
 
 # 401K/IRA Contributions
 
