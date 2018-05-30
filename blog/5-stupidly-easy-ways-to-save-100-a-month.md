@@ -13,33 +13,31 @@ Before I became budget savvy I was guilty of burying my head in the sand when it
 
 # 5 (stupidly) Easy Ways to Save $100 a Month
 
-**Drop your cable/satellite provider. **
+**Drop your cable/satellite provider.**
 
 This one might be a no duh for anyone under the age of 40, but you don't need cable anymore!  Between Netflix, Hulu, Sling, Amazon Prime, and over air channels there's no need to pay those hefty cable bills. 
 
 My favorite is Amazon Prime. I can get HBO without paying for cable!
 
-**Downsize your cars and insurance. **
+**Downsize your cars and insurance.**
 
 We have been a [one car family](https://kohlifornia.com/3-tips-for-living-the-one-car-life/) for many years, but that's not the only way to save money.  Do you need two SUVs?  Do you need two new cars?  Maybe you could trade one in for a more budget-friendly commuter car.  
 
 Also look at the cars you have and decide if it's worth it to drop collision coverage.  If your car isn't worth much anymore, you might be overpaying on your insurance coverage.
 
-**Drop underused subscriptions. **
+**Drop underused subscriptions.**
 
 Do you really use Spotify?  Is your child enjoying their art subscription box anymore?  Do you have Hulu but only use Netflix? What about magazines or newspapers? Most of that content is online now.  
 
 Dig deep on this.  I know you might _think_ you need something, but are you really getting the value out of the subscription?  I found that a gym membership is pretty useless for me because I love to exercise outside.
 
-**Check your paycheck withholdings. **
+**Check your paycheck withholdings.**
 
 Here's a great post I wrote on [getting more from your paycheck](https://kohlifornia.com/3-easy-ways-to-increase-your-paycheck).  There's never a better time to figure out if you're giving the government a loan on your money.  If you received a large tax return last year, you're most likely having too much withheld every month.
 
-**Borrow books instead of buying. **
+**Borrow books instead of buying.**
 
-Now I'm a big library nerd.  I take my daughter every week.  The library has almost every book you could want, and if they don't -- _ask a librarian_.  Because it it's new and relevant they'll definitely orde
-
-r you a copy.  
+Now I'm a big library nerd.  I take my daughter every week.  The library has almost every book you could want, and if they don't -- _ask a librarian_.  Because it it's new and relevant they'll definitely order you a copy.  
 
 Most libraries also have an online library where you can rent e-books and download them straight to your e-reader.  I used to stupidly buy my daughter books about drawing that she'd use 2 times and toss aside.  Well guess what I found out? I can _borrow_ them from the library for _free._
 
