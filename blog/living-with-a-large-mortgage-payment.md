@@ -17,9 +17,7 @@ I'm a big believer in [tracking every single dollar](https://kohlifornia.com/bud
 
 As you can see I track where every single dollar goes of our net income.  I have consolidated a few categories.  But I used to have "sustenance" broken into alcohol, coffee, groceries, and toiletries.  This way I know exactly how much I'm spending on everything.
 
-The software also allows you to look ahead to future months, and play around with how much money you spend on various things.  I wouldn't leave them pre-filled, but you can get a better understanding of how much money you have for savings, fun, etc after your bills are paid.  **And your rainy day funds are budgeted for.**  Don't forget the rainy day funds!
-
-![null](/assets/rainydaysavings.png)
+The software also allows you to look ahead to future months, and play around with how much money you spend on various things.  I wouldn't leave them pre-filled, but you can get a better understanding of how much money you have for savings, fun, etc after your bills are paid.  [**And your rainy day funds are budgeted for**](https://kohlifornia.com/budgeting-for-a-rainy-day/)**.** 
 
 # **Live Frugally**
 
