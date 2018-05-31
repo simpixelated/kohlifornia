@@ -15,10 +15,24 @@ You can also _do it yourself_ for a lot of hair routines.  I love to use this [P
 
 I'm a big believer in having a good hair cut done by a professional, so I'm not telling you to stop getting your hair cut.  But _opt for a low maintenance style.  _No bangs, or crazy layers that need to be trimmed up frequently. Of if you do, find a good stylist who does free bang trims.
 
-
-
 # Make-up
+
+If your'e one to wear a lot of make-up every day, then this will be your hardest place to save money.  I personally only _wear make-up a couple times a week_.  I only need to replace my products once every 3-6 months.
+
+Try using the bare minimum of something, don't go overboard.  And also try to skip something hear or there.  Maybe opt out of eyeliner one day, or mascara another.  I also use a tinted moisturizer, so I don't have to use my foundation every time I want to wear make-up.
+
+There are also some great beauty blogs out there who do dupes for cheaper items from drugstores.
 
 # Nail Care
 
-DIY pedicures/manicures
+This is probably the easiest way to cut your beauty costs. _Do your own manicures and pedicures. _Invest in all the equipment you need to do it right, and you'll save yourself TONS of money.
+
+I like to make myself a nice foot bath with epsom salt, a little essential oil, and some bubbles.  Then I use a file for my feel, push back my cuticles, and apply my own polish set.  Pretty easy, and I've gotten better over the years.
+
+As for a manicure, I'm hard on my hands so I don't do them often, but the Insta-Dry Line from Sally Hansen is _the best._  It's usually dry to touch in about 10-15 minutes.  I can do my nails, watch House Hunters, and then go about my day/night.
+
+In the end we can achieve a lot of the same beauty results for less money if we just invest a little time in ourselves and stretch appointments a little further.
+
+- - -
+
+_How do you save money on your beauty routines?  What's your favorite DIY beauty regimen?_
