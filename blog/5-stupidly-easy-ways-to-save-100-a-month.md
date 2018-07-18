@@ -3,11 +3,11 @@ path: 5 Easy Way to Save $100 a Month
 date: '2018-05-23'
 title: 5 (stupidly) Easy Ways to Save $100 a Month
 ---
-![](/assets/5wayssave100month.png)
+![null](/assets/5wayssave100month.png)
 
 We're all guilty of wasting money on things we don't need.  It happens to the best of us.  However there are many things we have machine automated or are automated to buy ourselves, which are a big fat waste of money.  
 
-I highly recommend the program called [You Need a Budget (YNAB)](https://www.youneedabudget.com/).  It forces you to not only track every dollar you spend, but put it in a category.  Long gone are the days where I forget to cancel subscriptions or forget to pay a bill.  I have it all set-up so I know where my money is going and I know exactly when it goes there.
+I highly recommend the program called [You Need a Budget (YNAB)](https://ynab.com/referral/?ref=LZ_JUlWk3nnnAwmX&utm_source=customer_referral).  It forces you to not only track every dollar you spend, but put it in a category.  Long gone are the days where I forget to cancel subscriptions or forget to pay a bill.  I have it all set-up so I know where my money is going and I know exactly when it goes there.
 
 Before I became budget savvy I was guilty of burying my head in the sand when it came to monitoring my credit cards and checking account.  I just sort of hoped that it worked out and didn't require me to pay attention.  Because of this, I stupidly wasted a lot of money every month.  By finally managing all our money in YNAB, I was able to save us over $100 a month.
 
@@ -43,7 +43,7 @@ Most libraries also have an online library where you can rent e-books and downlo
 
 It's crazy to think about all the things we're wasting money on every month.  I know a lot of things start off as a convenience, but do we really need them?  
 
-**The good news** is that you've discovered them **_now_** and can start saving $1200 towards something more meaningful.
+**The good news** is that you've discovered them _**now**_ and can start saving $1200 towards something more meaningful.
 
 - - -
 
